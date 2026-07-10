@@ -1,0 +1,34 @@
+# Ambiente Virtual
+venv/
+.env
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build e empacotamento
+build/
+dist/
+*.spec
+*.manifest
+
+# Banco de dados
+database/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+logs/
+*.log
+
+# Modelos de IA treinado localmente
+models/
+
+# VS Code / IDEs
+.vscode/
+.idea/
+*.swp
